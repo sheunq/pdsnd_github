@@ -26,3 +26,6 @@ R programming
 sql
 command line
 git 
+
+### Course Host 
+Udacity
